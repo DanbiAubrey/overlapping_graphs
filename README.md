@@ -26,3 +26,9 @@ This is the code that contructs two subgraphs G1 and G2 from input graph G given
   </code>
   </pre>
   
+  <pre>
+  <code>
+  python overlapping_graph_construction_v1.py --p 0.1 --g erdos_renyi_graph.npz
+  </code>
+  </pre>
+  
