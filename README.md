@@ -32,3 +32,17 @@ This is the code that contructs two subgraphs G1 and G2 from input graph G given
   </code>
   </pre>
   
+  - version_2 
+    - p == overlapping proportion over input G
+  <pre>
+  <code>
+  python overlapping_graph_construction_v2.py --p 0.1 --g small_world_graph.npz
+  </code>
+  </pre>
+  
+  <pre>
+  <code>
+  python overlapping_graph_construction_v2.py --p 0.1 --g erdos_renyi_graph.npz
+  </code>
+  </pre>
+  
